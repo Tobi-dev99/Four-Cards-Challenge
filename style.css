@@ -53,6 +53,17 @@ p{
     .main-container{
         padding: 10px 2.5rem;
     }
+    .head-discription{
+        width: 85%
+    }
+    .left-card{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .right-card {
+    margin-right: 0;
+        margin-left: 0;
+    }
 }
 
 .cards{
