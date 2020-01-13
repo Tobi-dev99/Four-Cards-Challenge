@@ -49,13 +49,16 @@ p{
     .cards-container{
         display: flex;
         flex-direction: column;
-        justify-content: center;
     }
     .main-container{
         padding: 10px 2.5rem;
     }
     .head-discription{
         width: 85%;
+    }
+    .mid-card{
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
