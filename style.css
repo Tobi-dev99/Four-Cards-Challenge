@@ -45,10 +45,13 @@ p{
     justify-content: center;
 }
 
-@media all and (max-width: 500px){
+@media all and (max-width: 375px){
     .cards-container{
         display: flex;
         flex-direction: column;
+    }
+    .main-container{
+        width: 100%;
     }
 }
 
