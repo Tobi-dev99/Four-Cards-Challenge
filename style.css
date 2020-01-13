@@ -51,7 +51,7 @@ p{
         flex-direction: column;
     }
     .main-container{
-        width: 100%;
+        padding: 10px 2.5rem;
     }
 }
 
