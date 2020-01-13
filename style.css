@@ -42,7 +42,7 @@ p{
     width: 80%;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 @media all and (max-width: 500px){
@@ -54,15 +54,7 @@ p{
         padding: 10px 2.5rem;
     }
     .head-discription{
-        width: 85%
-    }
-    .left-card{
-        margin-left: 0;
-        margin-right: 0;
-    }
-    .right-card {
-    margin-right: 0;
-        margin-left: 0;
+        width: 85%;
     }
 }
 
@@ -109,11 +101,11 @@ p{
 }
 .left-card {
     align-self: center;
-    margin-right: 20px;
+/*    margin-right: 20px;*/
 }
 .right-card {
     align-self: center;
-    margin-left: 20px;
+/*    margin-left: 20px;*/
 }
 
 .attribution {
