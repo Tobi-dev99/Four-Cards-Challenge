@@ -45,7 +45,7 @@ p{
     justify-content: center;
 }
 
-@media all and (max-width: 375px){
+@media all and (max-width: 500px){
     .cards-container{
         display: flex;
         flex-direction: column;
